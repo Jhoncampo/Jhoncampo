@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hello! I'm Jhon Campo 👋</h1>
+<h2>Fronend Developer 🚀</h2>
 
-<!--
-**Jhoncampo/Jhoncampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- I'm  19 yers old and I'm from Medellín, Colombia.
 
-Here are some ideas to get you started:
+### Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=JavaScript&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-grey?logo=HTML5&style=flat)
+![CSS](https://img.shields.io/badge/CSS-grey?logo=CSS3&style=flat&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/Node.js-grey?logo=node.js&style=flat)
+![JavaScript](https://img.shields.io/badge/-React-grey?logo=react&style=flat)
+![JavaScript](https://img.shields.io/badge/-PostgreSQL-grey?logo=postgresql&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=JavaScript&style=flat)
+![JavaScript](https://img.shields.io/badge/link-grey?logo=linkedin&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+<a> <img src="https://img.shields.io/badge/Linknin-blue?logo=linkedin&style=flat"> </a>
+<a> <img src="https://img.shields.io/badge/eduardcamayo13@gmail.com-blue?logo=gmail&style=flat"> </a>
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=jhoncampo&show_icons=true)
