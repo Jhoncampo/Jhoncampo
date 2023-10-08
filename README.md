@@ -11,8 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/Node.js-grey?logo=node.js&style=flat)
 ![JavaScript](https://img.shields.io/badge/-React-grey?logo=react&style=flat)
 ![JavaScript](https://img.shields.io/badge/-PostgreSQL-grey?logo=postgresql&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=JavaScript&style=flat)
-![JavaScript](https://img.shields.io/badge/link-grey?logo=linkedin&style=flat)
 
 ### Contact Me
 <a> <img src="https://img.shields.io/badge/Linknin-blue?logo=linkedin&style=flat"> </a>
