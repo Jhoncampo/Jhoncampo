@@ -1,5 +1,5 @@
 <h1>Hello! I'm Jhon Campo 👋</h1>
-<h2>Fronend Developer 🚀</h2>
+<h2>Frontend Developer 🚀</h2>
 
 ### About me
 - I'm  19 yers old and I'm from Medellín, Colombia.
