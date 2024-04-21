@@ -10,9 +10,10 @@
 ![CSS](https://img.shields.io/badge/CSS-grey?logo=CSS3&style=flat&logoColor=1572B6)
 ![Node](https://img.shields.io/badge/Node.js-grey?logo=node.js&style=flat)
 ![React](https://img.shields.io/badge/-React-grey?logo=react&style=flat)
+![Nextjs](https://img.shields.io/badge/-Nextjs-grey?logo=nextjs&style=flat)
 ![Postgresql](https://img.shields.io/badge/-PostgreSQL-grey?logo=postgresql&style=flat)
 ![Typescript](https://img.shields.io/badge/-Typescript-grey?logo=typescript&style=flat)
-![Git](https://img.shields.io/badge/-Git-grey?logo=git&style=flat)
+![Git](https://img.shields.io/badge/-Git-grey?logo=nextjs&style=flat)
 
 ### Contact Me
 <a> <img src="https://img.shields.io/badge/Linknin-blue?logo=linkedin&style=flat"> </a>
